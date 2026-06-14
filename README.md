@@ -25,3 +25,7 @@ I designed and maintain a home networking environment used to develop practical 
                                                               Goals
 
 This lab is used to strengthen my understanding of networking concepts and prepare for industry certifications such as the CCNA.
+
+                                                            Network Topology
+
+![Topology](Home-Lab.png)
