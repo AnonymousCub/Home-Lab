@@ -86,5 +86,12 @@ This lab is used to strengthen my understanding of networking concepts and prepa
 
                                                     | Network Topology |
 
-
 ![Topology](Home-Lab.png)
+
+                                                    | pfSense Dashboard |
+
+![pfSense Dashboard](Screenshots/Vlan-interface.png)
+
+                                                    | Virtual Machines |
+                                                    
+![Virtual Machines](Screenshots/virtualbox-Manager.png)
