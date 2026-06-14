@@ -94,4 +94,4 @@ This lab is used to strengthen my understanding of networking concepts and prepa
 
                                                     | Virtual Machines |
                                                     
-![Virtual Machines](Screenshots/virtualbox-Manager.png)
+![Virtual Machines](Screenshots/VirtualBox-Manager.png)
